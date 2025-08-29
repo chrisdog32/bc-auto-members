@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "functions": {
+    "api/order-webhook.js": {
+      "runtime": "nodejs18.x"
+    }
+  }
+}
